@@ -6,3 +6,6 @@ I chose to create four classes. A main class, a class for the grid that represen
 - If the rover moves out of the grid, it falls off the plateau and can't recover.
 - If the rover's direction is blank, it is considered invalid input and an error will be thrown.
 - The input file should be within the root directory of the project.
+
+# How to run:
+Once cloned, run the command `node main.js` in the terminal.
